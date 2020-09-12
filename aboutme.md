@@ -29,7 +29,7 @@ I have experience implementing the following statistical techniques in Python an
 I recently completed my Masters of Data Science program and my Capstone project with [UBC Urban Data Lab](https://urbandatalab.io/project/analyzing-ubc-building-energy-use/). We implemented machine learning techniques to categorize building sensors on UBC campus.
 
 ### Other Interests
-When I am not cleaning data or debugging, I enjoy playing tennis, reading autobiographies, and trying new recipes to cook. Also, I care a great deal about the community I live in. I've been volunteering at local homeless shelters for more than 5 years. I organize monthly events to make and distribute lunches+care packages to homeless encampments. More than 1,500 lunches and care packages have been distributed.
+When I am not cleaning data, I enjoy playing tennis, reading autobiographies, and trying new recipes to cook. Also, I care a great deal about the community I live in. I've been volunteering at local homeless shelters for more than 5 years. I organize monthly events to make and distribute lunches+care packages to homeless encampments. More than 1,500 lunches and care packages have been distributed.
 
 Community Involvement:   
 ![](/assets/img/aboutme/1.jpg)![](/assets/img/aboutme/2.JPG)![](/assets/img/aboutme/3.jpg)
