@@ -6,7 +6,7 @@ subtitle: From data analytics to data science
 
 ![](/assets/img/aboutme/4.jpg =100x20)
 
-With over 4 years of experience in data analytics providing e-commerce businesses with actionable data insights. I've developed the skills to clean messy data with Python and ETL tools, query databases (Microsoft SQL Server, Amazon RedShift, Google BigQuery), create Tableau dashboards for my stakeholders, and present insights from data analysis. In addition to my time as an analyst, I managed a team of analysts, was awarded Employee of the Quarter, and worked cross-functionally with many teams (executive, marketing, product, customer support, engineering).  
+With over 4 years of experience in data analytics providing e-commerce businesses with actionable data insights. I've developed the skills to clean messy data with Python and ETL tools, query databases (Microsoft SQL Server, Amazon Redshift, Google BigQuery), create Tableau dashboards for my stakeholders, and present insights from data analysis. In addition to my time as an analyst, I managed a team of analysts, was awarded Employee of the Quarter, and worked cross-functionally with many teams (executive, marketing, product, customer support, engineering).  
 
 After 4 years as a data analyst, I wanted to improve the decision-making process for stakeholders through predictive analytics. I enrolled in the Masters of Data Science program at the University of British Columbia to do just that.
 
