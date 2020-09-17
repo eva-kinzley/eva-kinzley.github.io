@@ -26,7 +26,7 @@ I have experience implementing the following statistical techniques in Python an
     - Hierarchal
 
 ### Current Work
-I recently completed my Masters of Data Science program and my Capstone project with [UBC Urban Data Lab](https://urbandatalab.io/project/mds-captone-2020/). We implemented a custom machine learning model to categorize building sensors on UBC campus.
+I recently completed my Masters of Data Science program and my Capstone project with [UBC Urban Data Lab](https://urbandatalab.io/project/mds-captone-2020/). With a team of data scientists, I implemented a custom machine learning model to categorize building sensors on UBC campus.
 
 ### Other Interests
 When I am not cleaning data, I enjoy playing tennis, reading autobiographies, and trying new recipes to cook. Also, I care a great deal about the community I live in. I've been volunteering at local homeless shelters for more than 5 years. In addition, I've organized monthly events to make and distribute lunches to homeless encampments. More than 1,500 lunches and care packages have been distributed.
